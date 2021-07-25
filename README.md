@@ -32,7 +32,7 @@ pip install .
 First we will need to generate a configuration file using the GUI.
 
 ```sh
-python -m data_anonymizer -g -i dump.sql --host 127.0.0.1 --user root --pass toor --db anonymize
+python -m data_anonymizer -g -i dump.sql --host 127.0.0.1 --user {{username}} --pass {{password}} --db anonymize
 ```
 
 This will open a local webserver at <http://127.0.0.1:8000>, follow the instructions onscreen and download the configuration file.
