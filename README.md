@@ -62,6 +62,9 @@ Graphical User Interface (for generating configuration file)
 - `--db <DATABASE>` Temporary database
 
 ## Authors
+👤 **Wout Meijer**
+
+* Github: [@woutmeijer](https://github.com/woutmeijer)
 
 👤 **Brady Renting**
 
@@ -71,17 +74,9 @@ Graphical User Interface (for generating configuration file)
 
 * Github: [@Redlolz](https://github.com/Redlolz)
 
-👤 **Wout Meijer**
-
-* Github: [@woutmeijer](https://github.com/woutmeijer)
-
 👤 **Benjamin Roest**
 
 * Github: [@benjaminroest](https://github.com/benjaminroest)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 
 ## 📝 License
